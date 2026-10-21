@@ -1,0 +1,10 @@
+﻿metric,count,percent_of_all_vacancies
+salary_from_filled,1372,19.86
+salary_to_filled,1149,16.64
+both_salary_fields_filled,833,12.06
+only_salary_from_filled,539,7.8
+only_salary_to_filled,316,4.58
+both_salary_fields_empty,5219,75.56
+invalid_salary_from_values,0,0.0
+invalid_salary_to_values,0,0.0
+salary_from_greater_than_salary_to,0,0.0

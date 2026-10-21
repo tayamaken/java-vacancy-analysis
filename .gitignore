@@ -1,0 +1,25 @@
+﻿# Python
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Original and downloaded datasets
+data/*.csv
+results/duckdb/java_vacancies.csv
+
+# Local editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

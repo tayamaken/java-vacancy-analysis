@@ -1,0 +1,1344 @@
+﻿skill,vacancy_count
+java,3751
+spring framework,2091
+postgresql,1839
+sql,1271
+git,1265
+spring boot,1010
+kafka,951
+docker,776
+javascript,763
+hibernate orm,671
+ооп,606
+kotlin,555
+rest,467
+kubernetes,457
+rabbitmq,428
+spring,424
+oracle,371
+java ee,333
+linux,331
+mysql,327
+hibernate,317
+react,315
+java core,301
+html,291
+apache maven,275
+java se,256
+typescript,247
+apache kafka,239
+css,206
+redis,195
+junit,188
+mongodb,183
+maven,168
+node.js,167
+gradle,164
+английский язык,151
+soap,147
+rest api,137
+jpa,124
+api,123
+jenkins,123
+unit testing,116
+ci/cd,115
+microservices,115
+angular,114
+html5,110
+scrum,109
+openshift,104
+css3,97
+atlassian jira,96
+xml,90
+vue.js,88
+php,84
+микросервисная архитектура,83
+elasticsearch,82
+ms sql,82
+nosql,79
+c#,76
+gitlab,76
+svn,75
+python,74
+teamcity,73
+базы данных,70
+jdbc,69
+databases,67
+java servlets,65
+jsp,64
+spring cloud,63
+spring data,63
+js,62
+субд,59
+solid,56
+http,55
+camunda,54
+clickhouse,52
+apache tomcat,50
+redux,50
+микросервисы,50
+backend,49
+java 11,49
+swagger,48
+mockito,47
+webpack,47
+elk,45
+vue,45
+android,44
+работа в команде,44
+frontend,43
+ответственность,43
+c++,42
+grpc,42
+gradle/maven,40
+liquibase,40
+spring web mvc,40
+jmix,39
+jquery,39
+react.js,39
+spring security,38
+intellij idea,37
+json api,37
+keycloak,36
+mvc,36
+postgres,36
+разработка по,36
+angularjs,35
+graphql,35
+json,35
+обучение,35
+es6,33
+java applets,33
+scala,33
+jira,32
+jvm,32
+grafana,30
+k8s,30
+vuejs,30
+работа с базами данных,29
+agile project management,28
+it,28
+java 17,28
+laravel,28
+hadoop,27
+nestjs,27
+удаленная работа,27
+atlassian confluence,26
+quarkus,26
+spring/spring boot,26
+ci/cd решения,25
+docker/k8s,25
+orm,25
+spring mvc,25
+asp.net,24
+groovy,24
+reactjs,24
+jms,23
+cuba platform,22
+flutter,22
+управление командой,22
+agile,21
+c/c++,21
+dart,21
+oracle pl/sql,21
+sass,21
+core,20
+go,20
+j2ee,20
+java script,20
+websocket,20
+веб-программирование,20
+nginx,19
+swift,19
+design patterns,18
+ejb,18
+javafx,18
+.net framework,17
+android sdk,17
+aws,17
+bootstrap,17
+figma,17
+ios,17
+java 8,17
+springboot,17
+рефакторинг кода,17
+ajax,16
+devops,16
+rxjava,16
+soa,16
+ориентация на результат,16
+activemq,15
+bash,15
+bitbucket,15
+expressjs,15
+java 8+,15
+next.js,15
+oop,15
+информационные технологии,15
+crm,14
+gitlab ci,14
+golang,14
+prometheus,14
+spring web,14
+wildfly,14
+boot,13
+fis,13
+html/css,13
+micronaut,13
+nodejs,13
+saas,13
+unix,13
+webflux,13
+yii2,13
+алгоритмы и структуры данных,13
+оптимизация кода,13
+cassandra,12
+hazelcast,12
+nexus,12
+react native,12
+spark,12
+tdd,12
+база данных: oracle,12
+ansible,11
+apache flink,11
+concurrency,11
+confluence,11
+data,11
+kibana,11
+less,11
+nuxt.js,11
+restful,11
+tcp/ip,11
+xsd,11
+youtrack,11
+паттерны проектирования,11
+управление проектами,11
+collections framework,10
+express.js,10
+ms sql server,10
+multithreading,10
+npm,10
+openapi,10
+scss,10
+.net,9
+amocrm,9
+docker-compose,9
+istio,9
+kanban,9
+netty,9
+rdbms,9
+spring core,9
+symfony,9
+testng,9
+yii,9
+коммуникабельность,9
+многопоточность,9
+немецкий язык,9
+akka,8
+apache camel,8
+apache cassandra,8
+apache solr,8
+big data,8
+bpmn,8
+code-review,8
+jakarta,8
+reactor,8
+swing,8
+tarantool,8
+tomcat,8
+uml,8
+аналитическое мышление,8
+высшее образование,8
+обучение и развитие,8
+системная интеграция,8
+apache spark,7
+es5,7
+flyway,7
+github,7
+https,7
+ktor,7
+lambda,7
+liferay,7
+lucene,7
+mariadb,7
+mobx,7
+multithread programming,7
+spring data jpa,7
+stream api,7
+web,7
+торговая площадка,7
+apache ignite,6
+artemismq,6
+ddd,6
+django framework,6
+docke,6
+eclipse,6
+etl,6
+fenom,6
+flex,6
+fullstack,6
+graalvm,6
+gwt,6
+ibm mq,6
+jcp,6
+logbrocker,6
+lombok,6
+machine learning,6
+minio,6
+ml,6
+modx,6
+nest,6
+play framework,6
+protocol buffers,6
+r2dbc,6
+spring webflux,6
+spring-kafka,6
+team management,6
+test containers,6
+tls,6
+ui,6
+weblogic,6
+wsdl/xsd/xml,6
+кроссбраузерная верстка,6
+подготовка технико-коммерческих предложений,6
+финансы,6
+android studio,5
+apache airflow,5
+artemis mq,5
+backbone,5
+camunda bpm,5
+canvas,5
+cloud,5
+collection,5
+coroutines,5
+couchdb,5
+elastic search,5
+exceptions,5
+express,5
+fastapi,5
+firebase,5
+gof,5
+highload,5
+io/nio,5
+java 8/11,5
+jdk 8,5
+logging,5
+mercurial,5
+mongo,5
+mybatis,5
+nats / kafka,5
+nest.js,5
+prisma,5
+qa,5
+react/redux,5
+redmine,5
+rest сервисов на java/spring boot,5
+rest сервисы,5
+software development,5
+ssr,5
+tcp,5
+teamleading,5
+three.js,5
+typeorm,5
+vaadin,5
+vuex,5
+websockets,5
+widlfly,5
+xml parsers,5
+алгоритмы и структура данных,5
+интеграция продуктов,5
+миграция с oracle,5
+наставничество,5
+продвижение бренда,5
+проектирование высоконагруженных систем,5
+работа с большим объемом информации,5
+разработка поисковых технологий,5
+разработчик,5
+статистический анализ,5
+тестирование,5
+adobe photoshop,4
+apache cayenne,4
+axios,4
+bitrix,4
+blockchain,4
+bpm camunda,4
+cqrs & eventsourcing,4
+docker/kubernetes,4
+electron.js,4
+freeswitch,4
+greenplum,4
+helm,4
+html/css/js,4
+html5/css3,4
+influxdb,4
+itsm,4
+j2e,4
+java 11/17,4
+java collections,4
+java multithreading,4
+java-core,4
+javaservlets,4
+jetty,4
+jsf,4
+junit mockito,4
+layered pattern,4
+linux terminal,4
+mq,4
+nextjs,4
+oracle db,4
+postgre,4
+postgree,4
+qt,4
+rabbit,4
+reactive spring,4
+regexp,4
+research,4
+restful api,4
+security,4
+selenium,4
+selenium ide,4
+soap/rest,4
+soft skills,4
+sonarqube,4
+spring 5,4
+spring boot 2.0,4
+spring boot 3,4
+springsecurity,4
+sql (включая индексы),4
+system design,4
+testcontainers,4
+vcs,4
+vue2,4
+wcf,4
+web application development,4
+webgl,4
+xpath,4
+амбициозность,4
+"внимательность, ответственность",4
+доброжелательность,4
+желание учиться и развиваться,4
+организация учебного процесса,4
+проведение тестирований,4
+проектирование архитектурных решений,4
+разработка нового продукта,4
+распределенная архитектура,4
+с#,4
+стремление к профессиональному росту,4
+сэд,4
+aosp,3
+appium,3
+architecture,3
+azure,3
+camel,3
+ci,3
+cockroach,3
+code review,3
+composer,3
+consul,3
+cordova,3
+cors,3
+dagger 2,3
+data engineer,3
+docker compose,3
+"docker/kubernetes, zio.",3
+e2e,3
+ecmascript 5,3
+emv,3
+es6+,3
+es6/7,3
+esb,3
+ethereum,3
+event sourcing,3
+exposed,3
+ext js,3
+fintech,3
+firebirdsql,3
+flash actionscript,3
+flow,3
+gamedev,3
+gitflow,3
+google cloud,3
+grunt,3
+gulp,3
+gxt,3
+hbase,3
+hibernate/mybatis,3
+idm,3
+iso 8583,3
+itil,3
+java (8+),3
+java 11-17,3
+java ss7,3
+java разработчик,3
+jest,3
+jooq,3
+kvm,3
+low code platform,3
+maven/gradle,3
+mdm,3
+mq очереди,3
+ms visual studio,3
+mssql,3
+naumen service deak,3
+netbeans,3
+nifi,3
+oauth,3
+people management,3
+pixijs,3
+pl/sql,3
+"play, akka-http, akka-streams, monix, cats, phoenix",3
+postgesql,3
+postrgesql,3
+puppeteer,3
+quarkus maven,3
+rabbitmq/kafka,3
+redux toolkit,3
+rest-сервисы,3
+rxjs,3
+sass/scss,3
+sdk,3
+secutity,3
+spring (spring boot),3
+springdata jpa,3
+taiga,3
+tailwind,3
+terrasoft crm,3
+transact-sql,3
+unit - тесты,3
+unit тесты,3
+vue3,3
+websphere,3
+xml/xslt,3
+zabbix,3
+автоматизация,3
+автоматизированное тестирование,3
+алгоритмы,3
+аналитический склад ума,3
+английский — a1 — начальный,3
+архитектура,3
+верстка,3
+деловая переписка,3
+деловое общение,3
+желание обучаться,3
+информационная безопасность,3
+математическое моделирование,3
+мобильное тестирование,3
+мобильные приложения,3
+модульные / интеграционные тесты,3
+модульные тесты,3
+навыки презентации,3
+нагрузочное тестирование,3
+паттерны проектирования ооп,3
+писать код,3
+подготовка презентаций,3
+постановка задач разработчикам,3
+преподаватель,3
+работать с кодом,3
+разработка,3
+разработка компьютерных игр,3
+разработка логистики,3
+руководство коллективом,3
+с++,3
+самостоятельность,3
+создание презентационных материалов о компании,3
+субд mongodb,3
+технический английский,3
+умение работать в условиях многозадачности,3
+электронный документооборот,3
+3d-моделей в blender,2
+activem,2
+adobe illustrator,2
+air tranportation,2
+airtable,2
+alfresco,2
+algorithms,2
+amazon web services,2
+amqp,2
+android api,2
+ant,2
+apache cxf,2
+apache software foundation,2
+apache thrift,2
+arm,2
+asp.net mvc,2
+awt,2
+babel,2
+back-end,2
+bigdata,2
+bubble,2
+business english,2
+business keycloak,2
+c,2
+cats,2
+cayenne,2
+chrome dev tools,2
+chromium embedded framework,2
+clojure,2
+cloud platforms,2
+cloudfront,2
+cmake,2
+collections,2
+concurrency java,2
+crypto,2
+debian,2
+delivery management,2
+delphi,2
+developer,2
+development,2
+dns,2
+docker swarm / kubernetes,2
+dry,2
+dwh,2
+eclipse vert.x,2
+eclipselink,2
+elasticsearch/opensearch,2
+elt,2
+embedded systems,2
+entity framework,2
+flutter flow,2
+frontend-разработчик,2
+game programming,2
+gitlab ci/cd,2
+glsl,2
+glu-console,2
+google app script,2
+google таблицы,2
+graphite,2
+graylog,2
+hdfs,2
+hibbernate,2
+hipernate,2
+http4s/sttp,2
+iaas,2
+ibm,2
+identity management,2
+ignite,2
+ioc,2
+jakarta ee,2
+jasperreports,2
+java 11+,2
+java 11/ kotlin,2
+java 17+ / kotlin,2
+java 8-11,2
+java 8-17,2
+java concurrency,2
+java enterprise edition,2
+java sdk,2
+java se 8+,2
+java spring framework,2
+"java(spring) , postgresql, docker",2
+java-разработчик,2
+java/kotlin,2
+java11,2
+javascript node.js,2
+jax-ws,2
+jaxb,2
+jdk,2
+jmeter,2
+jni,2
+jss7,2
+junit 5 / mockito / assertj / rest assured / cucumber,2
+jwt/oauth2,2
+kiss,2
+ktor framework,2
+ldap,2
+make,2
+maui,2
+maven / gradle,2
+maven framework,2
+mesos,2
+message brokers,2
+mocks,2
+mokito,2
+monix,2
+mqtt,2
+mvvm,2
+n8n,2
+nats,2
+nlp,2
+no-code,2
+no-code development,2
+nuxt 3,2
+odata,2
+open ai,2
+open api,2
+opensearch,2
+opensource,2
+oracle database,2
+oracle weblogic server,2
+osgi,2
+paas,2
+pg sql,2
+php5,2
+phpunit,2
+postgis,2
+postgress,2
+postgressql,2
+postgrsql,2
+primefaces,2
+primevue,2
+production,2
+project reactor,2
+prometeus,2
+prometeus/grafana,2
+promise,2
+pwa,2
+qa automation,2
+quasar,2
+rabbitmmq,2
+react hook,2
+react hooks,2
+reactive spring data,2
+reactive streams,2
+redux-toolkit,2
+rest api / openapi,2
+rest-api,2
+rpc,2
+rust,2
+s3,2
+sap hybris,2
+selenide,2
+shell scripting,2
+sip,2
+smart,2
+soong,2
+spring / spring boot,2
+spring boot 2.7,2
+"spring boot, quarkus, micronaut",2
+spring cache,2
+spring io,2
+spring jpa,2
+"spring, springboot",2
+springcloud,2
+sptingboot,2
+sql/nosql,2
+start-up project,2
+team development,2
+telegram,2
+telegram mini apps,2
+tfs,2
+threejs,2
+tls/ssl,2
+trino,2
+tron,2
+tron virtual machine,2
+ts,2
+ttypescript,2
+type script,2
+typescrypt,2
+unit-test,2
+unity,2
+vanillajs,2
+vert.x,2
+vertica,2
+waterfall,2
+web-приложения,2
+wpf,2
+xamarin,2
+xml+xslt.,2
+yandex cloud,2
+yandex.cloud,2
+yarn,2
+zapier,2
+zio,2
+zipkin,2
+автоматизация процессов,2
+адаптивная верстка,2
+аналитические способности,2
+асинхронное программирование,2
+базовые знания sql,2
+биржевые торги,2
+блочная верстка,2
+брокер,2
+генерация идей,2
+имитационное моделирование,2
+инвестиции,2
+ит,2
+ит архитектура,2
+ит-архитектура,2
+математическая статистика,2
+математический анализ,2
+машинное обучение,2
+микроконтроллеры,2
+микропроцессоры,2
+многозадачность,2
+настройка серверов,2
+нейронные сети,2
+опыт работы ведущим разработчиком от 5 лет,2
+опыт работы на позиции лидера от 2 лет,2
+"опыт работы со spring (core, boot, mvc, security, jdbc, jpa, cloud)",2
+основы sql,2
+офис,2
+подбор контента,2
+поиск информации в интернет,2
+проектирование api,2
+проектная деятельность,2
+профилирование,2
+работа с оргтехникой,2
+разработка микросервисов,2
+разработка платформы,2
+разработка продукта,2
+реляционные / нереляционные бд,2
+сi/di,2
+сoncurrency,2
+сервер приложений,2
+системное мышление,2
+стабильность,2
+теория вероятности,2
+хранение и обработка данных,2
+.netcore,1
+1c: предприятие,1
+1с-битрикс,1
+3d моделирование,1
+3d-графика,1
+access,1
+acid,1
+active mq,1
+actuator,1
+agile методологии,1
+airflow,1
+align technology,1
+amber software,1
+ansi c,1
+anthropic,1
+anylogic,1
+aop,1
+aot-компилятор,1
+apache,1
+apache hive,1
+apache kafka/kafka connect,1
+apache ni-fi,1
+apache nifi,1
+apache tika,1
+apexchart.js,1
+api security,1
+apollo client,1
+argocd,1
+asp.net core,1
+assembler,1
+assertj,1
+async/await,1
+asyncapi,1
+autocad,1
+awk,1
+azul systems,1
+backend developer,1
+backend: node.js,1
+bash/batch скрипты,1
+batch,1
+bdd,1
+big-o,1
+bitrix 24,1
+blade,1
+boot/spring,1
+bpms,1
+bpmsoft,1
+brooklyn,1
+browser automation,1
+bss,1
+cbs,1
+centos,1
+chart.js,1
+ci\cd,1
+cicd,1
+clean сode,1
+cms wordpress,1
+cocos creator,1
+codereview,1
+collection api,1
+collection framework,1
+compiler,1
+continuous delivery,1
+continuous integration,1
+core java,1
+coroutine,1
+cryptocurrency,1
+d3,1
+d3.js,1
+data mining,1
+dbeaver,1
+desktop graphics,1
+"devops (git (bitbucket), jenkins, ansible, maven, gradle, junit и пр.)",1
+"devops (git (bitbucket), jenkins, ansible, maven, gradle, junit и пр.) java spring framework kotlin",1
+devtools,1
+dhcp,1
+distributed system development,1
+django,1
+django rest framework,1
+"docker,",1
+"docker, openshift/kubernetes",1
+documentum,1
+domobject,1
+dot net(core),1
+eclipse rcp,1
+eclipslink,1
+ecmascript,1
+ecomm,1
+elacticsearch,1
+elastic,1
+elesticsearch,1
+elk stack,1
+elma,1
+enovia,1
+entity framework core,1
+erp,1
+esbuild,1
+eslint,1
+executorservice,1
+exelsior,1
+exoplayer,1
+expres.js,1
+express js,1
+feign,1
+ffmpeg,1
+flexbox,1
+flink,1
+"flyway, liqubase",1
+front -end разработчик,1
+front-end developer,1
+frontend разработка,1
+fs,1
+ft,1
+"fw: ktor, spring, compose, kotlin multiplatform, jooq, exposed",1
+game development,1
+gcc,1
+gemini,1
+gerrit,1
+gis,1
+git javascript typescript webpack gulp html/css rest react angular vue,1
+git/jira,1
+goland,1
+google api,1
+google apps script,1
+google sheets,1
+grails,1
+graphql api,1
+grasp,1
+gremlin,1
+grid,1
+guice,1
+haskell,1
+helpdesk,1
+highcharts,1
+hive,1
+hooks,1
+htmx,1
+hyper-v,1
+ibm ace,1
+ibm mq / kafka,1
+"ibm mq, rabbitmq, etc",1
+icefaces,1
+ide,1
+idp,1
+imcg,1
+"inf: docker, git, gitlab, gra",1
+intel,1
+intel c++,1
+iscsi,1
+it архитектор,1
+janusgraph,1
+jasper,1
+jaspersoft,1
+"java (8 и 11), spring, jpa, hibernate, thymeleaf",1
+"java (8 и 11), spring, jpa, hibernate, thymeleaf, hibernate, thymeleaf",1
+java (eclipse),1
+java + spring boot,1
+java 11+ hibernate spring boot spring data jpa spring security liquibase kafka docker kubern,1
+"java 11, spring (boot: web, cloud, data, test), postgresql, hibernate, kafka, camunda bpm, elk, gitl",1
+java 11\17,1
+java 15+,1
+java 17+,1
+java 21,1
+java 8/11 spring framework,1
+java 8/11+,1
+java core 11+,1
+"java core 8, spring, git, postgres, json, neo4j",1
+java kotlin sql rest spring hibernate orm,1
+java rmi,1
+java s,1
+java se7,1
+java security,1
+java spi,1
+java spiring framework,1
+java spring,1
+java spring boot,1
+java spring boot 2+,1
+java web,1
+java базы данных http/rest backend,1
+"java, sping framework, sql, postgresql, rest, ооп, junit, git20:00",1
+"java, sql, rest api",1
+java/с handlers,1
+java2d,1
+java8,1
+java8+,1
+javacpp,1
+javascript es6+,1
+javase,1
+jbossseam,1
+jbpm,1
+jee,1
+jetbrains,1
+jetbrains phpstorm,1
+jetpack compose,1
+jfrog,1
+jigsaw,1
+jira / jsd,1
+"jira, xml, java, json, spring framework",1
+jmm concurrency,1
+jmx,1
+jndi,1
+jpa/hibernate,1
+jpql,1
+js es5,1
+js es6,1
+jse,1
+json-rpc,1
+jsx typescript,1
+junit 5,1
+junit. субд oracle. java server pages. spring. hibernate,1
+junit/postman/jmeter,1
+jwt,1
+k8s/openshift,1
+kafka streams,1
+kafka-connect,1
+kubernatts,1
+kubernetes/openshift,1
+kubernetess,1
+large language model,1
+lavarel,1
+leadership skills,1
+leaflet,1
+linq,1
+livedata,1
+llm,1
+llvm,1
+loc,1
+log-free,1
+log4j,1
+loki & grafana,1
+lotusscript,1
+lowlevel,1
+mapstruct,1
+material ui,1
+matsim,1
+"maven, java 8, sping (boot, web, cloud, jpa, websocket, security), postrgresql, hibernate, redis, li",1
+mendix,1
+mes\aps,1
+metabase,1
+micronaut framework,1
+microservice,1
+microservice architecture,1
+microsevices,1
+microsoft sql,1
+middle java developer,1
+minecraft,1
+"mobx, axios",1
+mobx-state-tree,1
+mocha,1
+moleculer,1
+mondo db,1
+ms crm,1
+ms dynamics,1
+ms dynamics crm,1
+ms excel,1
+ms power bi,1
+ms sharepoint,1
+ms visual basic,1
+"mvc, i/o stream, servlet, jdbc, jpa, jaxb, sax/dom",1
+mvp,1
+nats.js,1
+neo4j,1
+nest js,1
+netbeans platform,1
+neti,1
+nhibernate,1
+node js,1
+nosql бд,1
+nosql/sql,1
+nstu,1
+nsu,1
+nuxt,1
+oauth2,1
+oauth2/openid,1
+oidc,1
+okd,1
+okta,1
+openapi (swagger),1
+openid,1
+openjdk,1
+openshift unit,1
+openssl,1
+openstack,1
+openway way4,1
+optimization,1
+optional,1
+oracle 11g,1
+oracle crm,1
+oracle siebel crm,1
+osi,1
+oss,1
+pangolin,1
+parcel,1
+parsing,1
+performance reviews,1
+pgadmin,1
+phaser,1
+pine,1
+pinescript,1
+pixi,1
+pki,1
+platformeco,1
+playwright,1
+pm2,1
+podman,1
+posgresql,1
+"postgresql / mysql,",1
+postman,1
+qemu,1
+qraphql,1
+rabbit mq,1
+"rabbitmq, mosquitto, amqp",1
+ranger,1
+react + typescript,1
+react javascript,1
+react query,1
+react-admin,1
+react-native,1
+react-router,1
+react-разработчик,1
+reactnative,1
+reddis,1
+reds/tarantool,1
+redux thunk,1
+redux-form,1
+reflections,1
+rest apis,1
+rest/soap,1
+reviewing,1
+rocksdb,1
+rollup,1
+room service,1
+rtk query,1
+ruby,1
+rust compiler,1
+rxjava 2/3,1
+safe,1
+sap,1
+sap mes,1
+scada,1
+scala + zio,1
+scrap,1
+scraping,1
+scylladb,1
+sdn,1
+sds,1
+sequelize,1
+service desk,1
+servlets,1
+smart tv,1
+smpp,1
+soapui,1
+socket.io,1
+solid works,1
+solidworks,1
+solr,1
+spa,1
+spark streaming,1
+"spring (core, boot, mvc, security, jdbc, jpa, cloud)",1
+spring amqp,1
+spring batch,1
+spring boot 2,1
+"spring boot 2.x, 3.x",1
+spring boot test,1
+spring recurity,1
+spring test,1
+"spring, spring boot, spring cloud",1
+spring-mvc,1
+sql nosql,1
+sqlite,1
+sre,1
+ss7,1
+ssg,1
+ssl/tls,1
+starrocks,1
+stl,1
+storybook,1
+string handling,1
+struts 2,1
+stylelint,1
+stylus,1
+swagger/oas,1
+tdorp,1
+team lead,1
+team lead java,1
+teamcity junit,1
+teamplayer,1
+teams,1
+techlead,1
+telecom,1
+testing-library,1
+trello,1
+twig,1
+"typescript,",1
+ubuntu server,1
+udp,1
+unipro,1
+unit tests,1
+unit-тесты,1
+unit-тесы,1
+unix-системы,1
+ut,1
+vanilla,1
+virtualization,1
+visual studio c#,1
+vite,1
+vmware,1
+vue 3,1
+vue js,1
+vue2.js,1
+web design,1
+web front-end,1
+web services,1
+web socket,1
+web sockets,1
+web-flux,1
+web-дизайн,1
+web-разработка,1
+web3,1
+webrtc,1
+websoft,1
+webstart,1
+webview,1
+windows,1
+wiremock,1
+wordpress,1
+wsdl,1
+xen,1
+xml/json,1
+xquery,1
+yaml,1
+yandex,1
+zookeeper,1
+zuul,1
+абс,1
+автоматизация тестирования,1
+алгоритмизация,1
+анализ кода,1
+анализ требований,1
+архитектор,1
+архитектор java,1
+базовые алгоритмы,1
+банковский опыт,1
+бизнес-анализ,1
+бизнес-консультирование,1
+битрикс,1
+брокеры сообщений,1
+бэкенд разработчик,1
+в2 - английский,1
+веб-дизайн,1
+владение теорией построения реляционных баз данных,1
+внимательность,1
+высокая энергичность,1
+грамотная речь,1
+грамотность,1
+дизайн,1
+доработка,1
+индивидуальное обучение,1
+интеграционное тестирование,1
+исполнительность,1
+ит архитектор,1
+карточный процессинг,1
+ключевые навыки java sql postgresql базы данных работа с базами данных стремление к профессиональном,1
+код-ревью,1
+"коммуникабельность, ответственность",1
+коммуникативность,1
+компилятор,1
+консалтинг,1
+линейное программирование,1
+маркировка товаров,1
+менеджеры раскладки.,1
+менторство,1
+миграция баз данных,1
+микросервсная архитектура,1
+многопоточное и сетевое программирование,1
+мобильность,1
+навыки планирования,1
+навыки статистической обработки данных,1
+написание inline-документации к api бека проектов,1
+написание процедур и функций sql,1
+нгту,1
+нгу,1
+онбординг,1
+опыт работы с high load сервисами,1
+"опыт работы с maven, git, linux",1
+опыт распила монолита на микросервисы,1
+ориентирован на результат,1
+оркестрация микросервисов,1
+основы алгоритмов и структур данных,1
+ответственный подход к работе,1
+оформление документации,1
+планировать и оптимально организовать рабочий процесс,1
+платежи / переводы,1
+пользователь пк,1
+"понимание ооп, хорошее знание sql",1
+поток данных,1
+проактивность,1
+программирование,1
+программист сапр,1
+публичные выступления,1
+работа с ключевыми клиентами,1
+разработка api,1
+разработка cms,1
+разработка plm,1
+разработка rest api сервисов,1
+разработка и поддержка веб-приложений на java,1
+разработка клиент-серверных систем на java,1
+разработка концепции,1
+разработка мобильных приложений под android,1
+"разработки под ms sql, oracle, firebird",1
+"разработки с использованием gwt, smartgwt",1
+рбд,1
+реактивное программирование,1
+реляционные базы данных,1
+реляционные бд,1
+рендеринг,1
+рефакторинга кода,1
+сonfluence,1
+самообучаемость,1
+сервлет контейнеры,1
+смарткарты,1
+смэв,1
+создание компьютнрных игр,1
+создание сайтов,1
+сопровождение серверов,1
+средства криптографической защиты информации,1
+стажировка,1
+стремление к саморазвитию,1
+стрессоустойчивость,1
+структуры данных,1
+субд oracle,1
+сэд тезис,1
+творческое мышление,1
+тестирование android,1
+тестировка,1
+техлид,1
+техническая грамотность,1
+техническая и сопроводительная документация,1
+тимлид,1
+точность и внимательность к деталям,1
+транслятор,1
+умение анализировать,1
+умение планировать,1
+умение работать в коллективе,1
+умение работать в команде,1
+умение работать с детьми,1
+умение работать самостоятельно,1
+управление временем,1
+управление разработкой,1
+фп,1
+фронтенд,1
+хорошая обучаемость,1
+целеустремленность,1
+шаблоны проектирования,1
+шаблоны проектирования программного обеспечения,1
+язык программирования java,1

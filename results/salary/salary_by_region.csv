@@ -1,0 +1,4 @@
+﻿region,all_vacancies,rur_salary_from_count,rur_salary_from_median,rur_salary_to_count,rur_salary_to_median,rur_both_bounds_count
+Москва,3376,507,200000.0,480,250000.0,303
+Новосибирск,308,64,150000.0,51,220000.0,40
+Санкт-Петербург,935,193,140000.0,158,235000.0,104

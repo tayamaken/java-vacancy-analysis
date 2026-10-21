@@ -1,0 +1,6 @@
+﻿currency,vacancies_with_both_bounds,median_salary_from,median_salary_to,median_range_width,inverted_ranges
+BYR,1,2500.0,4000.0,1500.0,0
+EUR,8,3000.0,4500.0,1000.0,0
+KZT,2,150000.0,550000.0,400000.0,0
+RUR,798,120000.0,180000.0,50000.0,0
+USD,24,3000.0,4500.0,1500.0,0
