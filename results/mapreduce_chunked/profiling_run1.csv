@@ -1,0 +1,4 @@
+﻿chunk_size,chunk_bytes,rows_processed,rows_with_skills,unique_skills,unique_pairs,unique_triples,bytes_read,read_chunks,elapsed_seconds,peak_rss_mb
+256KB,262144,6907,4731,1343,20635,137489,25775271,99,1.0426,84.95
+1MB,1048576,6907,4731,1343,20635,137489,25775271,25,1.8522,84.77
+4MB,4194304,6907,4731,1343,20635,137489,25775271,7,5.1673,85.28
